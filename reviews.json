@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Thompson",
+        "subject": "Physics",
+        "stars": 4,
+        "review": "Engaging lectures and clear explanations. Challenging but fair exams."
+      },
+      {
+        "professor": "Prof. Michael Chen",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Brilliant instructor! Makes complex topics easy to understand."
+      },
+      {
+        "professor": "Dr. Sarah Johnson",
+        "subject": "Biology",
+        "stars": 3,
+        "review": "Knowledgeable but sometimes goes too fast. Office hours are helpful."
+      },
+      {
+        "professor": "Prof. Robert Williams",
+        "subject": "History",
+        "stars": 4,
+        "review": "Passionate about the subject. Assignments can be time-consuming."
+      },
+      {
+        "professor": "Dr. Lisa Martinez",
+        "subject": "Psychology",
+        "stars": 5,
+        "review": "Fantastic professor! Incorporates real-world examples in lectures."
+      },
+      {
+        "professor": "Prof. David Lee",
+        "subject": "Mathematics",
+        "stars": 2,
+        "review": "Difficult to follow. Needs to provide more practice problems."
+      },
+      {
+        "professor": "Dr. Amanda Taylor",
+        "subject": "English Literature",
+        "stars": 4,
+        "review": "Insightful discussions. Heavy reading load but worth it."
+      },
+      {
+        "professor": "Prof. James Wilson",
+        "subject": "Economics",
+        "stars": 3,
+        "review": "Dry lectures, but very knowledgeable. Fair grader."
+      },
+      {
+        "professor": "Dr. Karen Brown",
+        "subject": "Chemistry",
+        "stars": 5,
+        "review": "Excellent at breaking down complex concepts. Great lab instructor."
+      },
+      {
+        "professor": "Prof. Thomas Garcia",
+        "subject": "Sociology",
+        "stars": 4,
+        "review": "Thought-provoking lectures. Encourages class participation."
+      },
+      {
+        "professor": "Dr. Rachel Kim",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Passionate and knowledgeable. Field trips were a highlight."
+      },
+      {
+        "professor": "Prof. William Anderson",
+        "subject": "Political Science",
+        "stars": 2,
+        "review": "Disorganized lectures. Unclear expectations for assignments."
+      },
+      {
+        "professor": "Dr. Jennifer Lewis",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "review": "Engaging content. Group projects were challenging but educational."
+      },
+      {
+        "professor": "Prof. Christopher Davis",
+        "subject": "Philosophy",
+        "stars": 3,
+        "review": "Interesting topics, but can be abstract. Grading is fair."
+      },
+      {
+        "professor": "Dr. Elizabeth White",
+        "subject": "Linguistics",
+        "stars": 5,
+        "review": "Incredibly knowledgeable and approachable. Best professor I've had."
+      },
+      {
+        "professor": "Prof. Daniel Miller",
+        "subject": "Business Administration",
+        "stars": 4,
+        "review": "Practical approach to teaching. Great industry connections."
+      },
+      {
+        "professor": "Dr. Olivia Robinson",
+        "subject": "Anthropology",
+        "stars": 3,
+        "review": "Interesting material, but lectures can be monotonous."
+      },
+      {
+        "professor": "Prof. Steven Clark",
+        "subject": "Mechanical Engineering",
+        "stars": 4,
+        "review": "Challenging course, but professor is always willing to help."
+      },
+      {
+        "professor": "Dr. Sophia Patel",
+        "subject": "Neuroscience",
+        "stars": 5,
+        "review": "Brilliant researcher and teacher. Makes complex topics accessible."
+      },
+      {
+        "professor": "Prof. Richard Turner",
+        "subject": "Music Theory",
+        "stars": 2,
+        "review": "Knowledgeable but poor communication skills. Assignments are unclear."
+      }
+    ]
+  }
